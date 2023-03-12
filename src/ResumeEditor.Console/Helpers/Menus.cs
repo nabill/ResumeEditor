@@ -55,11 +55,11 @@ namespace ResumeEditor.Console.Helpers
             write.Text(" 2 ", MessageType.Title);
             write.Line(" Experience", MessageType.Normal);
             
-            write.Text(" 3 ", MessageType.Title);
+            write.Text(" 3 ", MessageType.Highlight);
             write.Text(" Studies", MessageType.Normal);
             write.Line(" (Not implemented yet)", MessageType.Highlight);
 
-            write.Text(" 4 ", MessageType.Title);
+            write.Text(" 4 ", MessageType.Highlight);
             write.Text(" Languages", MessageType.Normal);
             write.Line(" (Not implemented yet)", MessageType.Highlight);
 
