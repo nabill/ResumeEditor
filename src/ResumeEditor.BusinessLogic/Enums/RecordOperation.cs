@@ -6,14 +6,9 @@ using System.Threading.Tasks;
 
 namespace ResumeEditor.BusinessLogic.Enums
 {
-    public enum MessageType
+    public enum RecordOperation
     {
-        Title,
-        Normal,
-        Highlight,
-        Success,
-        Warning,
-        Error,
-        Accent
+        Edit,
+        Delete
     }
 }
