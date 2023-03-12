@@ -11,4 +11,10 @@
     <ProjectReference Include="..\ResumeEditor.BusinessLogic\ResumeEditor.BusinessLogic.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="itextsharp">
+      <HintPath>bin\Debug\net6.0\itextsharp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

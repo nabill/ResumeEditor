@@ -44,6 +44,7 @@ namespace ResumeEditor.Console.Helpers
             GeneralInformations generalInformations = new();
             ExperienceMenu experience = new();
             DisplayResume displayResume = new();
+            Export export = new();
 
             ApplicationTitle();
 
@@ -91,6 +92,9 @@ namespace ResumeEditor.Console.Helpers
 
                 case "5":
                     displayResume.Content();
+                    return true;
+                case "6":
+                    export.GeneratePDF();
                     return true;
                 case "7":
                     return false;
