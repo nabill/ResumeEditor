@@ -1,0 +1,5 @@
+C:\Temp\001\ResumeEditor\src\ResumeEditor.BusinessLogic\obj\Debug\net6.0\ResumeEditor.BusinessLogic.csproj.AssemblyReference.cache
+C:\Temp\001\ResumeEditor\src\ResumeEditor.BusinessLogic\obj\Debug\net6.0\ResumeEditor.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\001\ResumeEditor\src\ResumeEditor.BusinessLogic\obj\Debug\net6.0\ResumeEditor.BusinessLogic.AssemblyInfoInputs.cache
+C:\Temp\001\ResumeEditor\src\ResumeEditor.BusinessLogic\obj\Debug\net6.0\ResumeEditor.BusinessLogic.AssemblyInfo.cs
+C:\Temp\001\ResumeEditor\src\ResumeEditor.BusinessLogic\obj\Debug\net6.0\ResumeEditor.BusinessLogic.csproj.CoreCompileInputs.cache
